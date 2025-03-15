@@ -33,6 +33,6 @@ sidebar_position: 1
       bar: 'John Doe',
     }
 
-    // Ceci est un extrait de code PHP
+ // Ceci est un extrait de code PHP
   $foo = ['bar' => 'John Doe'];
 
