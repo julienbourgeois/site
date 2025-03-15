@@ -1,8 +1,8 @@
 ---
-  sidebar_position: 1
-  ---
+sidebar_position: 1
+---
 
-  # Ceci est un H1
+ # Ceci est un H1
 
   ## Ceci est un H2
 
