@@ -26,3 +26,13 @@ sidebar_position: 1
   :::success
   Ceci est un blog de **success**
   :::
+
+  
+ // Ceci est un extrait de code JS
+    const foo = {
+      bar: 'John Doe',
+    }
+
+    // Ceci est un extrait de code PHP
+  $foo = ['bar' => 'John Doe'];
+
