@@ -28,4 +28,4 @@ sidebar_position: 1
   :::
 
  
-![mon bateau](/webs/static/img/BM110.jpg "mon 1er bateau")
+![mon bateau](img/BM110.jpg "mon 1er bateau")
