@@ -79,7 +79,8 @@ const config = {
         title: 'BAG',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          /*src: 'img/logo.svg',v*/
+          src: 'img/bagmelen_preparé.png',
         },
         items: [
           {
