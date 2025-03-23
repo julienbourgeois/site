@@ -9,9 +9,9 @@ sidebar_position: 1
    c'était un Django 750 monoquille, moteur hosbord
   ### il a fait de la regate et de la croisière
 
-  **Tour de Belle Ile**
-  **Lorient-Le Belon**
-  **Tour de Groix**
+  *Tour de Belle Ile
+  *Lorient-Le Belon
+  *Tour de Groix
 
   *Entrainements d'hivers*
 
@@ -23,10 +23,10 @@ sidebar_position: 1
   > Ceci est un citation
 
   :::danger Ne remonte pas bien au vent
-  tire des bords de près transatlantique **danger**
+  tire des bords de près transatlantique **dommage**
   :::
 
-  ::: Plannant au portant
+  :::success Plannant au portant
   Pouvait partir au planning a 8 noeuds **success**
   :::
 
