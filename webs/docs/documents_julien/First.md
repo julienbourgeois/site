@@ -14,4 +14,4 @@ sidebar_position: 2
   **Spi Ouest France 2024**
   
 
-  ![mon bate](/img/first.jpg "mon 2nd bateau")
+  ![mon bate](/img/f1.jpg "mon 2nd bateau")
