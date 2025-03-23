@@ -10,9 +10,9 @@ sidebar_position: 1
    c'était un Django 750 monoquille, moteur hosbord
   ### il a fait de la regate et de la croisière
 
-  *Tour de Belle Ile
-  *Lorient-Le Belon
-  *Tour de Groix
+  * Tour de Belle Ile
+  * Lorient-Le Belon
+  * Tour de Groix
 
   *Entrainements d'hivers*
 
