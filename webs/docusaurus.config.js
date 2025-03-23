@@ -80,7 +80,7 @@ const config = {
         logo: {
           alt: 'My Site Logo',
           /*src: 'img/logo.svg',v*/
-          src: 'img/bagmelen_preparé.png',
+          src: 'img/bagmelen_2.png',
         },
         items: [
           {
