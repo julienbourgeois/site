@@ -14,4 +14,4 @@ sidebar_position: 2
   **Spi Ouest France 2024**
   
 
-  ![mon bateau](/img/first_cnml-eh-breizh-2024-03-24-007.jpg "mon 2nd bateau")
+  ![mon bateau](/img/first.jpg "mon 2nd bateau")
