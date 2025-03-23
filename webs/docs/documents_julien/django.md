@@ -5,6 +5,7 @@ sidebar_position: 1
  # le Django Bag Melen 1
 
   ## Acheté en octobre 2017 a Perros Guerrec
+   en copropriété entre Jérome et Julien
    vendu en juin 2023
    c'était un Django 750 monoquille, moteur hosbord
   ### il a fait de la regate et de la croisière
@@ -31,4 +32,4 @@ sidebar_position: 1
   :::
 
  
-![mon bateau](/img/BM110.jpg "mon 1er bateau")
+![mon bateau](/img/BM110.jpg "entrainement d'hivers")
