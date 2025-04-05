@@ -21,10 +21,16 @@ sidebar_position: 1
 
   ses performances :
 
-  * 5eme au Tour de Belle Ile
+  * sa plus belle performance est sans doute 5eme au Tour de Belle Ile
   * Batait parfois un Pogo 850 aux entrainements d'hivers
 
-  > Ceci est un citation
+  beaucoup d'améliorations:
+  * revetement de sol, 
+  * genaker de mini 650 sur emmaganiseur
+  * foc neuf a la jauge
+  * spi assymetique de mini 650
+  * ancre légère
+
 
   :::danger Ne remonte pas bien au vent
   tire des bords de près transatlantique **dommage**
