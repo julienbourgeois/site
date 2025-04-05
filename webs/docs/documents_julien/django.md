@@ -10,6 +10,7 @@ sidebar_position: 1
    en copropriété entre Jérome et Julien
  
    c'était un Django 750 monoquille, moteur hosbord
+   moteur de 6 cv, ne permettait pas de lutter contre le courant
   ### il a fait de la regate et de la croisière
 
   * Tour de Belle Ile
