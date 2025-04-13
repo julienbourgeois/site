@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
  # le Django Bag Melen 1
-
+![mon bateau](/img/genack.jpg "entrainement d'hivers")
   ## Acheté en octobre 2017 a Perros Guerrec
   ## vendu en juin 2023 
    
