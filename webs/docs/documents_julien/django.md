@@ -5,8 +5,9 @@ sidebar_position: 1
  # le Django Bag Melen 1
 ![mon bateau](/img/genack.JPG "entrainement d'hivers")
   ## Acheté en octobre 2017 a Perros Guerrec
-  ## vendu en juin 2023 
-   
+  ## Vendu en juin 2023 a Larmor Plage
+   son nouveau propriétaire l'a mis au mouillage devant Port La Foret
+
    en copropriété entre Jérome et Julien
  
    c'était un Django 750 monoquille, moteur hosbord
