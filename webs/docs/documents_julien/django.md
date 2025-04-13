@@ -52,3 +52,9 @@ sidebar_position: 1
 
  
 ![mon bateau](/img/BM110.jpg "entrainement d'hivers")
+
+
+### Intérieur
+
+l'interieur est spartiate, dans les photos il n'y a pas de personnages, sinon on ne voit plus rien tellement c'est petit
+![mon bateau](/img/bc3.jpg "cuisine")
