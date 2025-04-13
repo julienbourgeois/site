@@ -4,19 +4,27 @@ sidebar_position: 1
 
  # le Django Bag Melen 1
 ![mon bateau](/img/genack.JPG "entrainement d'hivers")
+  photo avec le genacker sur bout dehors et emmagasineur rajouté, devant le trimaran de Guillaume Pillet.
+
   ## Acheté en octobre 2017 a Perros Guerrec
   ## Vendu en juin 2023 a Larmor Plage
    son nouveau propriétaire l'a mis au mouillage devant Port La Foret
 
+   son ancien proppriétaire ( 2nd propriétaire ) avait gardé le nom Conga , il l'avait racheté a un courreur.
+
    en copropriété entre Jérome et Julien
  
-   c'était un Django 750 monoquille, moteur hosbord
-   moteur de 6 cv, ne permettait pas de lutter contre le courant
+ ### un plan Pierre Rolland
+   c'était un Django 750 monoquille, 
+   moteur hosbord  de 6 cv, ne permettait pas de lutter contre le courant
+    
   ### il a fait de la regate et de la croisière
 
   * Tour de Belle Ile
   * Lorient-Le Belon
   * Tour de Groix
+
+  en croisière: il est revenu de Perros Guerrec, il a fait une croisière jusqu'a Brest, il a fait une croisier d'une semaine à 4 avec Valentine, Hector, COrinne et Julien.
 
   *Entrainements d'hivers*
 
@@ -31,6 +39,7 @@ sidebar_position: 1
   * foc neuf a la jauge
   * spi assymetique de mini 650
   * ancre légère
+  * WC marin
 
 
   :::danger Ne remonte pas bien au vent
