@@ -14,7 +14,7 @@ sidebar_position: 2
   * Spi Ouest France 2024
   * entrainement hivers  Lorient 2024
   * entrainement hivers 2025
-![mon bate](/img/entrainementhivers2025.PNG "Breizh Cup 2024")
+![mon bate](/img/entrainement hivers2025.PNG "Breizh Cup 2024")
   * Convoyage de Deauville a Lorient
   * croisière été 2024 Danes et Vignon
   
