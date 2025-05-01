@@ -40,7 +40,7 @@ sidebar_position: 2
   * spi assymetique de mini 650
   * ancre légère
   * WC marin
-
+![mon bateau](/img/Dj.JPG "Jérome")
 
   :::danger Ne remonte pas bien au vent
   tire des bords de près transatlantique **dommage**
