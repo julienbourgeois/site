@@ -15,7 +15,7 @@ sidebar_position: 1
   * entrainement hivers  Lorient 2024
   * entrainement hivers 2025
    ![mon bate](/img/eh25.jpg "Breizh Cup 2024")
-   ![mon first](/img/General-HN1.pdf "Breizh Cup 2024")
+   ![mon first](/img/HN12025.jpg "Breizh Cup 2024")
   * Convoyage de Deauville a Lorient
   * croisière été 2024 Danes et Vignon
   
