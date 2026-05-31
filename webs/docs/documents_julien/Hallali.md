@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
- # Hallali
+ # Hallali le Crussing racer
  ![mon bate](/img/hal1.jpeg "Breizh Cup 2024")
  ## voiles de la citadelle 2022
  bateau de Concarneau
